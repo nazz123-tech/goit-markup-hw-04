@@ -214,8 +214,6 @@ img{
     margin:0 auto 48px;
 }
 
-
-
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -296,4 +294,7 @@ img{
     justify-content: space-between;
     align-items: center;
     padding: 0 15px 0 15px;
+}
+.icons{
+    fill:none;
 }
